@@ -25,4 +25,6 @@ body {
 }
 ```
 
-# Use Calibre to convert/fix epub
+# Epub fix
+
+Use Calibre's main program to convert to epub for all potential epub error fix
